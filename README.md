@@ -1,4 +1,4 @@
-# covid19-swing-mysql
+# COVID-19 Swing
 
 University project that uses Java Swing and MySql database, made using the Eclipse IDE.
 
